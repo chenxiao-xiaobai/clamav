@@ -1,5 +1,5 @@
 # ClamAV
-
+Antivirus Live CD 是包含一个 ClamAV 扫描仪的 4MLinux 系统调用工具。它是提供给系统管理员的一款轻量级 反病毒扫描仪 live CD 工具。支持以太网（包括 Wi-Fi）和拨号上网（包括快速 USB modems）网络连接器，会自动更新病毒特征库。所有分区安装时自动启动，所以可以被 ClamAV 扫描（支持的文件系统：btrfs, ext2, ext3, ext4, FAT, HFS, HFS+, jfs, Minix, NTFS, ReiserFS 和 XFS）。Antivirus Live CD 的镜像与 UNetbootin 完全兼容，很容易就生成一个 Antivirus Live USB。
 <p align="center">
   <img width="250" height="250" src="https://raw.githubusercontent.com/Cisco-Talos/clamav-devel/dev/0.104/logo.png" alt='Maeve, the ClamAV mascot'>
 </p>
